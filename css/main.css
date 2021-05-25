@@ -170,6 +170,7 @@ footer .footer-left {
 
 footer .footer-right {
     justify-content: right;
+    align-items: right;
 }
 
 footer ul li a{
