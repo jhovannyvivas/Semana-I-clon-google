@@ -164,13 +164,13 @@ footer ul {
 }
 
 footer .footer-left {
-    justify-content: left;
+    justify-self: left;
 
 }
 
 footer .footer-right {
-    justify-content: right;
-    align-items: right;
+    justify-self: right;
+
 }
 
 footer ul li a{
